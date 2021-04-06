@@ -1,0 +1,12 @@
+**************************************************************************************************
+The index.html file is the main file and plese do open it first.
+All the .css files are stored in the css folder.
+The images associated with the site are in the images folder.
+*************************************************************************************************
+This project has been done by Akhilesha A Saralaya,
+an intern at E-ADDA, 
+under the guidence of Sir Nagendra Babu,
+with the help of Sir Hemanth Gargi and Rakshith TA.
+*************************************************************************************************
+The template is created by W3layouts and I have altered it according to the needs.
+*************************************************************************************************
